@@ -1,1 +1,1 @@
-# go로 만드는 웹
+# gorm and gin framework
